@@ -112,6 +112,7 @@ function runRequests(){
                     io_app_secret:params.io_app_secret,
                     users:params.users})+'\');';
             fs.writeFileSync('./webapp/settings.js',data, 'utf8');
+            fs.writeFileSync('./run/install.json',JSON.stringify(params), 'utf8');
             rl.close();
         })
         .catch(function(err) {

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "install": "node ./run/install.js",
-    "start": "node ./run/start.js"
+    "start": "node ./run/start.js",
+    "uninstall": "node ./run/install.js"
   },
   "dependencies": {
     "connect": "^3.5.0",
