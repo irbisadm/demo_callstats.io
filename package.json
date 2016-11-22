@@ -1,0 +1,14 @@
+{
+  "name": "knock-knock",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "node ./run/install.js",
+    "start": "node ./run/start.js"
+  },
+  "dependencies": {
+    "connect": "^3.5.0",
+    "node-fetch": "^1.6.3",
+    "open": "0.0.5",
+    "serve-static": "^1.11.1"
+  }
+}

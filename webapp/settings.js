@@ -1,0 +1,1 @@
+var settings = JSON.parse('{"app_name":"demo-knock-knock","account_name":"irbisadm","io_app_id":"880936166","io_app_secret":"olClgAkRu0R0:wTM2ZchButxWj6E8cywBEZxDayJunoGQErR1kzk2TYU=","users":[{"name":"demo-kk1","pass":"25d2a831d0cbea9a"},{"name":"demo-kk2","pass":"9b00999897708fa5"}]}');
