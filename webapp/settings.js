@@ -1,1 +1,1 @@
-var settings = JSON.parse('{"app_name":"demo-knock-knock","account_name":"irbisadm","io_app_id":"","io_app_secret":"","users":[{"name":"demo-kk1","pass":"1c208fc7677d8639"},{"name":"demo-kk2","pass":"789ac7b47f7a4b6b"}]}');
+var settings = JSON.parse('{"app_name":"demo-knock-knock","account_name":"irbisadm","io_app_id":"880936166","io_app_secret":"kmnP4yGVmxmd:bKtdPrqKeGxQ+AVf9hfSjU04enkpYc0MCjHfgvpgsFE=","users":[{"name":"demo-kk1","pass":"1c208fc7677d8639"},{"name":"demo-kk2","pass":"789ac7b47f7a4b6b"}]}');
